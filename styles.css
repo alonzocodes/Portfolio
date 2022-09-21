@@ -11,15 +11,23 @@ nav, ul {
 nav {
     width: 100%;
     height: max-content;
-    background-color: #3CA6A6;
+    background-color: #026773;
 }
 
 li {
     list-style: none;
     margin-right: 10%;
-    color: #012E40;
+    color: #ffffff;
+    font-family: Bebas Neue;
+    font-size: 1.5em;
 }
 
+.header-title {
+    font-size: 3em;
+    color: #3CA6A6;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+ /* Draw up some refences to base your design off of. */
 
 
 
