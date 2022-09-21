@@ -1,5 +1,3 @@
 # Portfolio
-My personal portfolio webpage
-I'm going through The Odin Project and other resources, teaching myself front end web development.
-This is going to be my portfolio page, where I can host the projects I create, and other projects I work through.
+I'm currently working my way through The Odin Project (TOP) and will need a page I can showcase my skills and projects I've gained and built along the way. I plan to continually update this until I'm finished.
 
